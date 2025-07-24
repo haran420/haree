@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/haree/static/css/main.0d7038e2.css",
-    "main.js": "/haree/static/js/main.a3459f8a.js",
+    "main.js": "/haree/static/js/main.c97c304b.js",
     "static/js/453.ed3810f9.chunk.js": "/haree/static/js/453.ed3810f9.chunk.js",
     "static/media/banner-bg.png": "/haree/static/media/banner-bg.c5bb7f07884ac6a0ca73.png",
     "static/media/color-sharp.png": "/haree/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -31,11 +31,11 @@
     "static/media/telephone.svg": "/haree/static/media/telephone.ab397c121bf837667749cba71b6cee75.svg",
     "static/media/envelope.svg": "/haree/static/media/envelope.9195ea068fc3e607be379b0bd4e86b9d.svg",
     "main.0d7038e2.css.map": "/haree/static/css/main.0d7038e2.css.map",
-    "main.a3459f8a.js.map": "/haree/static/js/main.a3459f8a.js.map",
+    "main.c97c304b.js.map": "/haree/static/js/main.c97c304b.js.map",
     "453.ed3810f9.chunk.js.map": "/haree/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d7038e2.css",
-    "static/js/main.a3459f8a.js"
+    "static/js/main.c97c304b.js"
   ]
 }
